@@ -1,0 +1,302 @@
+VILLAGERS
+Alo d'Ansleville*
+Arnoul Delalande
+Alaric Group
+Wymarc Travada
+Judo Carosi
+Anschetillus Ettingshausen
+Errolan Vesci
+Lewenhart Malaurie
+Phormion Duvillard*
+Iturri Meystrell
+Bessi Weiz
+Recceswinth Woeder
+Megistus Barbu
+Sylvester Goossens
+Bias Weinsheimer
+Hemonnet Martineaud
+Gefroy Rousset
+Ferand Delicati*
+Martlet Loschi
+Ulpt Bourgeoys
+Sotil Mavros
+Halius Levski
+Fridebertus Aguilon
+Asteri Mirbt
+Beringer Tolr
+Emercho Bachelin
+Archetel Van Heemskerck
+Jollanus Rombley
+Archagoras Iurrieta*
+Menesthes Baggio
+Villiame Abeille
+Egidius Clouzot
+Helmhart Bunge
+Willie Faerber
+Raimbaut Tarducci
+Balius Baumont*
+Timoxenos Badeau
+Lefwyne Muraro
+Merbal Desmet
+Senuthius Sjoerte
+Swittert Dolagaray
+Humfery Corradini
+Patsy Azevedo
+Tibbald Koemans
+Renouart Halmer
+Owini Verflieren
+Eumenes Primeau
+Henfrey de Cahaihnes
+Franz Alexopoulos*
+Philopoemon Teixeira
+Agrias Brendel
+Maginulf Nizan
+Haggith Poilblan
+Jaunzuria Koehler
+Rodney Crespy
+Roumain Pfaff
+Chlotar Dufrene
+Cuthbrid Hasangjekaj
+Antoynel Geingob
+Humpherus Eiguren*
+Bricot Weibrecht
+Harimann Schoettlekotte
+Ruthardus de Tocni
+Euphratas Savoldelli
+Gottschalk Devael
+Roduulf Schroff
+Himel Yordanyotov
+Hadubrand Ostendarp*
+Olympiodorus Klinsmann
+Lion Tourret
+Percyvell Aburto
+Hilduin Stober
+Brice Zabel
+Jurdan Gatlinaro
+Paskal Lohse
+Hisarna Manta
+Thorold Mavroudis
+Folmar Paravicini
+Leoric Pipinelis
+Euphratas Rouviere
+Bernard Veteripont*
+Antilochus Mazan
+Aribert Godefroy
+Napolion Sico
+Dickory Dessaigne
+Euripides Docquier
+Philkin Bloem
+Arioald Muti
+Tendao Demilly
+Harmocydes d'Auberville
+Gavin Peizerat
+Eudes Bentele
+Eudoxus Hechevaria
+Timagoras Corbajram
+Idaeus Weigle
+Heiron Koehler*
+Nyctinus Rubbi
+Xanthippus Rothfels
+Methodius Zoitakis
+Maurianus Zaldibar
+
+SONGS
+Savage
+Blinding Lights
+Kings & Queens
+Savage Remix
+Godzilla
+No Time to Die
+Stupid Love
+Yummy
+Physical
+Breathe Deeper
+Break My Heart
+Lose You to Love Me
+Toosie Slide
+People, I've Been Sad
+Delete Forever
+What a Man Gotta Do
+You Should Be Sad
+If You're Too Shy (Let Me Know)
+If the World Was Ending
+Lonely
+Dance Monkey
+Roses
+Don't Start Now
+Before You Go
+The Box
+Own It
+Someone You Loved
+Say So
+Adore You
+Life Is Good
+Roxanne
+Everything I Wanted
+Bruises
+Death Bed
+Bad Guy
+Rockstar
+Intentions
+Memories
+Better Off Without You
+Rain
+Ride It
+Rover
+Blueberry Faygo
+Falling
+Circles
+Lose Control
+I Don't Care
+My Oh My
+Pump It Up
+Watermelon Sugar
+Old Town Road
+Whiskey Glasses
+Meant to Be
+God's Plan
+Shape of You
+That's What I Like
+Body Like a Back Road
+H.O.L.Y.
+One Dance
+Love Yourself
+Uptown Funk
+See You Again
+Take Your Time
+This Is How We Roll
+Happy
+Thrift Shop
+Cruise
+Time Is Love
+Love on Top
+Somebody That I Used to Know
+Rolling in the Deep
+Sure Thing
+Crazy Girl
+Love Like Crazy
+Un-Thinkable (I'm Ready)
+Tik Tok
+Boom Boom Pow
+Blame It
+I Run to You
+Low
+Like You'll Never See Me Again
+Just Got Started Lovin' You
+Irreplaceable
+Lost Without U
+Watching You
+Bad Day
+Be Without You
+If You're Going Through Hell (Before the Devil Even Knows)
+We Belong Together
+Let Me Love You
+That's What I Love About Sunday
+U Can't Touch This
+Another Night
+All That She Wants
+Blue
+Children
+Tearin' Up My Heart
+
+PARTIES
+Fridebertus Aguilon,Swittert Dolagaray,Arioald Muti,Paskal Lohse,Rodney Crespy,Philopoemon Teixeira
+Villiame Abeille,Tibbald Koemans,Archagoras Iurrieta,Chlotar Dufrene,Harimann Schoettlekotte,Raimbaut Tarducci,Idaeus Weigle,Merbal Desmet,Sylvester Goossens,Timagoras Corbajram,Antoynel Geingob,Roduulf Schroff,Brice Zabel,Haggith Poilblan,Rodney Crespy,Napolion Sico,Heiron Koehler,Patsy Azevedo
+Iturri Meystrell,Timagoras Corbajram,Paskal Lohse,Hilduin Stober,Cuthbrid Hasangjekaj,Lion Tourret,Bricot Weibrecht,Patsy Azevedo
+Euphratas Savoldelli,Hisarna Manta,Harmocydes d'Auberville,Jaunzuria Koehler,Roumain Pfaff,Thorold Mavroudis,Tendao Demilly,Idaeus Weigle,Judo Carosi,Jurdan Gatlinaro,Emercho Bachelin,Antoynel Geingob,Fridebertus Aguilon,Egidius Clouzot,Alaric Group,Villiame Abeille
+Alo d'Ansleville,Maurianus Zaldibar,Maginulf Nizan,Jaunzuria Koehler,Raimbaut Tarducci,Roumain Pfaff,Idaeus Weigle,Himel Yordanyotov,Methodius Zoitakis,Bias Weinsheimer,Senuthius Sjoerte,Errolan Vesci,Wymarc Travada,Humpherus Eiguren,Ferand Delicati,Gefroy Rousset,Bricot Weibrecht,Gavin Peizerat,Swittert Dolagaray
+Archetel Van Heemskerck,Errolan Vesci,Maginulf Nizan,Dickory Dessaigne,Roduulf Schroff,Bricot Weibrecht,Philopoemon Teixeira
+Judo Carosi,Dickory Dessaigne,Emercho Bachelin,Thorold Mavroudis
+Phormion Duvillard,Eudes Bentele,Iturri Meystrell,Eudoxus Hechevaria,Nyctinus Rubbi,Methodius Zoitakis,Fridebertus Aguilon,Bernard Veteripont,Helmhart Bunge,Alaric Group,Ruthardus de Tocni,Heiron Koehler
+Euphratas Savoldelli,Archagoras Iurrieta,Senuthius Sjoerte,Haggith Poilblan,Halius Levski,Agrias Brendel,Bessi Weiz,Renouart Halmer,Humpherus Eiguren,Balius Baumont,Napolion Sico,Egidius Clouzot
+Tibbald Koemans,Alo d'Ansleville,Roumain Pfaff,Idaeus Weigle,Himel Yordanyotov,Judo Carosi,Roduulf Schroff,Phormion Duvillard,Jollanus Rombley,Archetel Van Heemskerck,Ulpt Bourgeoys,Eudes Bentele,Folmar Paravicini,Antilochus Mazan,Lefwyne Muraro,Franz Alexopoulos,Gavin Peizerat,Euripides Docquier,Swittert Dolagaray,Euphratas Rouviere
+Philkin Bloem,Senuthius Sjoerte,Beringer Tolr,Roumain Pfaff,Gavin Peizerat,Dickory Dessaigne,Xanthippus Rothfels,Arioald Muti,Roduulf Schroff,Emercho Bachelin,Hilduin Stober,Aribert Godefroy,Ferand Delicati,Alaric Group,Napolion Sico,Chlotar Dufrene
+Philkin Bloem,Chlotar Dufrene,Haggith Poilblan,Iturri Meystrell,Franz Alexopoulos,Olympiodorus Klinsmann,Owini Verflieren,Patsy Azevedo,Wymarc Travada,Aribert Godefroy,Fridebertus Aguilon,Ferand Delicati,Jollanus Rombley,Arioald Muti,Phormion Duvillard,Napolion Sico,Asteri Mirbt
+Philkin Bloem,Archagoras Iurrieta,Senuthius Sjoerte,Beringer Tolr,Roumain Pfaff,Swittert Dolagaray,Tendao Demilly,Owini Verflieren,Renouart Halmer,Balius Baumont,Paskal Lohse,Cuthbrid Hasangjekaj,Recceswinth Woeder,Methodius Zoitakis,Bricot Weibrecht,Eudoxus Hechevaria
+Owini Verflieren,Sotil Mavros
+Hemonnet Martineaud,Maurianus Zaldibar,Maginulf Nizan,Dickory Dessaigne,Idaeus Weigle,Xanthippus Rothfels,Judo Carosi,Himel Yordanyotov,Roduulf Schroff,Cuthbrid Hasangjekaj,Senuthius Sjoerte,Harmocydes d'Auberville,Owini Verflieren,Antoynel Geingob,Aribert Godefroy,Rodney Crespy,Asteri Mirbt,Ruthardus de Tocni,Lefwyne Muraro
+Henfrey de Cahaihnes,Senuthius Sjoerte,Eudes Bentele,Paskal Lohse,Bessi Weiz,Arioald Muti,Ruthardus de Tocni
+Tibbald Koemans,Archagoras Iurrieta,Halius Levski,Raimbaut Tarducci,Dickory Dessaigne,Idaeus Weigle,Eumenes Primeau,Sotil Mavros,Chlotar Dufrene,Senuthius Sjoerte,Megistus Barbu,Humpherus Eiguren,Antoynel Geingob,Haggith Poilblan,Aribert Godefroy,Bernard Veteripont,Asteri Mirbt,Beringer Tolr,Balius Baumont,Heiron Koehler
+Phormion Duvillard,Harimann Schoettlekotte,Gavin Peizerat,Swittert Dolagaray,Ferand Delicati,Eudoxus Hechevaria,Ruthardus de Tocni,Timoxenos Badeau
+Leoric Pipinelis,Anschetillus Ettingshausen,Himel Yordanyotov,Roduulf Schroff,Arnoul Delalande
+Antilochus Mazan,Tibbald Koemans,Willie Faerber,Archagoras Iurrieta,Senuthius Sjoerte,Ulpt Bourgeoys,Philopoemon Teixeira,Euripides Docquier,Tendao Demilly,Sylvester Goossens,Eudoxus Hechevaria
+Archagoras Iurrieta,Beringer Tolr,Raimbaut Tarducci,Olympiodorus Klinsmann,Euripides Docquier
+Willie Faerber,Senuthius Sjoerte,Beringer Tolr,Folmar Paravicini,Gottschalk Devael,Iturri Meystrell,Raimbaut Tarducci,Merbal Desmet,Judo Carosi,Cuthbrid Hasangjekaj,Arnoul Delalande,Henfrey de Cahaihnes,Lion Tourret,Patsy Azevedo,Arioald Muti,Villiame Abeille
+Raimbaut Tarducci,Megistus Barbu,Bessi Weiz,Helmhart Bunge,Arioald Muti
+Percyvell Aburto,Iturri Meystrell,Ruthardus de Tocni
+Roumain Pfaff,Halius Levski
+Percyvell Aburto,Antilochus Mazan,Philkin Bloem,Hisarna Manta,Agrias Brendel,Euripides Docquier,Merbal Desmet,Bricot Weibrecht,Jollanus Rombley
+Philopoemon Teixeira,Senuthius Sjoerte,Folmar Paravicini,Himel Yordanyotov,Sylvester Goossens,Brice Zabel,Cuthbrid Hasangjekaj,Methodius Zoitakis,Fridebertus Aguilon,Bessi Weiz,Eudoxus Hechevaria,Phormion Duvillard,Sotil Mavros
+Euphratas Savoldelli,Alo d'Ansleville,Senuthius Sjoerte,Beringer Tolr,Jaunzuria Koehler,Maginulf Nizan,Roumain Pfaff,Jurdan Gatlinaro,Antoynel Geingob,Rodney Crespy,Napolion Sico,Egidius Clouzot,Eudoxus Hechevaria,Ruthardus de Tocni,Chlotar Dufrene
+Hemonnet Martineaud,Archagoras Iurrieta,Halius Levski,Jaunzuria Koehler,Himel Yordanyotov,Recceswinth Woeder,Humfery Corradini,Sotil Mavros,Olympiodorus Klinsmann,Wymarc Travada,Emercho Bachelin,Antoynel Geingob,Aribert Godefroy,Helmhart Bunge,Gefroy Rousset,Eudes Bentele,Sylvester Goossens,Gavin Peizerat,Euripides Docquier,Balius Baumont
+Archagoras Iurrieta,Harimann Schoettlekotte,Agrias Brendel,Anschetillus Ettingshausen,Judo Carosi,Humfery Corradini
+Hemonnet Martineaud,Alo d'Ansleville,Chlotar Dufrene,Beringer Tolr,Errolan Vesci,Folmar Paravicini,Anschetillus Ettingshausen,Arioald Muti,Patsy Azevedo
+Percyvell Aburto,Philkin Bloem,Alo d'Ansleville,Himel Yordanyotov,Methodius Zoitakis,Napolion Sico,Leoric Pipinelis,Owini Verflieren,Rodney Crespy,Ferand Delicati,Bernard Veteripont,Philopoemon Teixeira,Arioald Muti,Folmar Paravicini,Merbal Desmet,Eudoxus Hechevaria,Beringer Tolr,Euripides Docquier,Lion Tourret,Heiron Koehler
+Harmocydes d'Auberville,Halius Levski,Agrias Brendel,Renouart Halmer,Jurdan Gatlinaro,Recceswinth Woeder,Emercho Bachelin,Wymarc Travada,Ferand Delicati,Alaric Group,Patsy Azevedo
+Euphratas Savoldelli,Ulpt Bourgeoys,Maurianus Zaldibar,Harimann Schoettlekotte,Jaunzuria Koehler,Agrias Brendel,Himel Yordanyotov,Wymarc Travada,Renouart Halmer,Recceswinth Woeder,Cuthbrid Hasangjekaj,Napolion Sico,Phormion Duvillard
+Tibbald Koemans,Hisarna Manta,Harimann Schoettlekotte,Paskal Lohse,Nyctinus Rubbi,Egidius Clouzot,Phormion Duvillard,Chlotar Dufrene,Errolan Vesci,Olympiodorus Klinsmann,Leoric Pipinelis,Wymarc Travada,Haggith Poilblan,Sylvester Goossens,Eudoxus Hechevaria,Ruthardus de Tocni,Antilochus Mazan,Franz Alexopoulos,Swittert Dolagaray,Tendao Demilly
+Menesthes Baggio,Chlotar Dufrene,Idaeus Weigle
+Philkin Bloem,Bias Weinsheimer,Gefroy Rousset,Jaunzuria Koehler,Maginulf Nizan,Raimbaut Tarducci,Leoric Pipinelis,Tendao Demilly,Euripides Docquier,Himel Yordanyotov,Methodius Zoitakis
+Lewenhart Malaurie,Iturri Meystrell,Olympiodorus Klinsmann,Martlet Loschi,Humfery Corradini,Bessi Weiz,Alaric Group,Asteri Mirbt
+Lefwyne Muraro,Ulpt Bourgeoys,Folmar Paravicini,Maginulf Nizan,Antoynel Geingob,Napolion Sico,Asteri Mirbt
+Hemonnet Martineaud,Hisarna Manta,Halius Levski,Maginulf Nizan,Jaunzuria Koehler,Roumain Pfaff,Brice Zabel,Phormion Duvillard,Senuthius Sjoerte,Harmocydes d'Auberville,Balius Baumont,Ferand Delicati,Alaric Group,Villiame Abeille,Willie Faerber,Beringer Tolr,Gottschalk Devael,Franz Alexopoulos,Arnoul Delalande,Euphratas Rouviere
+Euripides Docquier,Owini Verflieren,Hilduin Stober,Henfrey de Cahaihnes,Phormion Duvillard,Euphratas Rouviere
+Hemonnet Martineaud,Bias Weinsheimer,Errolan Vesci,Hadubrand Ostendarp,Iturri Meystrell,Ferand Delicati,Franz Alexopoulos,Olympiodorus Klinsmann,Raimbaut Tarducci,Dickory Dessaigne,Judo Carosi,Himel Yordanyotov,Jurdan Gatlinaro,Cuthbrid Hasangjekaj,Henfrey de Cahaihnes,Egidius Clouzot,Phormion Duvillard
+Iturri Meystrell,Humfery Corradini
+Archagoras Iurrieta,Beringer Tolr,Hadubrand Ostendarp,Gottschalk Devael,Halius Levski,Agrias Brendel,Idaeus Weigle,Eumenes Primeau,Sylvester Goossens,Antoynel Geingob,Hilduin Stober,Nyctinus Rubbi,Aribert Godefroy,Methodius Zoitakis,Lion Tourret,Helmhart Bunge,Ruthardus de Tocni
+Euphratas Savoldelli,Ulpt Bourgeoys,Lewenhart Malaurie,Iturri Meystrell,Dickory Dessaigne,Eumenes Primeau,Judo Carosi,Roduulf Schroff,Brice Zabel,Nyctinus Rubbi,Methodius Zoitakis,Napolion Sico,Bricot Weibrecht
+Gottschalk Devael,Agrias Brendel,Maginulf Nizan,Swittert Dolagaray,Merbal Desmet,Sylvester Goossens,Wymarc Travada,Emercho Bachelin,Jurdan Gatlinaro,Martlet Loschi,Humpherus Eiguren,Fridebertus Aguilon,Bernard Veteripont,Villiame Abeille
+Bessi Weiz,Willie Faerber
+Hemonnet Martineaud,Willie Faerber,Maurianus Zaldibar,Iturri Meystrell,Maginulf Nizan,Egidius Clouzot,Roumain Pfaff,Xanthippus Rothfels,Timagoras Corbajram,Roduulf Schroff,Hilduin Stober,Nyctinus Rubbi,Henfrey de Cahaihnes,Bernard Veteripont,Arioald Muti,Phormion Duvillard,Timoxenos Badeau
+Philkin Bloem,Ulpt Bourgeoys,Senuthius Sjoerte,Jollanus Rombley,Halius Levski,Folmar Paravicini,Gottschalk Devael,Franz Alexopoulos,Dickory Dessaigne,Judo Carosi,Sylvester Goossens,Emercho Bachelin,Recceswinth Woeder,Lion Tourret,Bricot Weibrecht,Philopoemon Teixeira,Heiron Koehler,Asteri Mirbt
+Antilochus Mazan,Lefwyne Muraro,Hisarna Manta,Willie Faerber,Maurianus Zaldibar,Iturri Meystrell,Agrias Brendel,Gavin Peizerat,Raimbaut Tarducci,Thorold Mavroudis,Paskal Lohse,Rodney Crespy,Bessi Weiz,Lion Tourret,Chlotar Dufrene
+Willie Faerber,Euripides Docquier,Dickory Dessaigne,Tendao Demilly,Merbal Desmet,Timagoras Corbajram,Thorold Mavroudis,Humpherus Eiguren,Lion Tourret,Villiame Abeille
+Menesthes Baggio,Euphratas Savoldelli,Ulpt Bourgeoys
+Himel Yordanyotov,Lefwyne Muraro,Gefroy Rousset,Sotil Mavros
+Beringer Tolr,Owini Verflieren,Timoxenos Badeau,Heiron Koehler,Villiame Abeille
+Percyvell Aburto,Philkin Bloem,Jaunzuria Koehler,Roumain Pfaff,Idaeus Weigle,Himel Yordanyotov,Cuthbrid Hasangjekaj,Fridebertus Aguilon,Egidius Clouzot,Sotil Mavros,Humpherus Eiguren,Rodney Crespy,Eudoxus Hechevaria,Gottschalk Devael,Gavin Peizerat,Anschetillus Ettingshausen,Arnoul Delalande,Lion Tourret,Heiron Koehler
+Aribert Godefroy,Lion Tourret,Jollanus Rombley,Phormion Duvillard,Euphratas Rouviere
+Beringer Tolr,Halius Levski,Methodius Zoitakis,Napolion Sico,Lion Tourret,Arioald Muti,Timoxenos Badeau
+Archagoras Iurrieta,Gefroy Rousset,Errolan Vesci,Ferand Delicati,Maginulf Nizan,Raimbaut Tarducci,Gavin Peizerat,Timagoras Corbajram,Judo Carosi,Humpherus Eiguren,Paskal Lohse,Humfery Corradini,Fridebertus Aguilon,Napolion Sico,Bernard Veteripont
+Euphratas Savoldelli,Bias Weinsheimer,Senuthius Sjoerte,Lewenhart Malaurie,Beringer Tolr,Owini Verflieren,Humpherus Eiguren,Humfery Corradini
+Merbal Desmet,Sylvester Goossens,Napolion Sico
+Bias Weinsheimer,Lewenhart Malaurie,Idaeus Weigle,Eumenes Primeau,Jollanus Rombley,Eudoxus Hechevaria
+Lefwyne Muraro,Hemonnet Martineaud,Archagoras Iurrieta,Euphratas Savoldelli,Eudes Bentele,Swittert Dolagaray,Xanthippus Rothfels,Idaeus Weigle,Judo Carosi,Himel Yordanyotov,Balius Baumont,Napolion Sico,Bricot Weibrecht,Sotil Mavros
+Lefwyne Muraro,Euphratas Savoldelli,Archagoras Iurrieta,Hisarna Manta,Senuthius Sjoerte,Harmocydes d'Auberville,Agrias Brendel,Euripides Docquier,Owini Verflieren,Thorold Mavroudis,Himel Yordanyotov,Roduulf Schroff,Menesthes Baggio,Lion Tourret,Philopoemon Teixeira,Chlotar Dufrene
+Jollanus Rombley,Gavin Peizerat,Olympiodorus Klinsmann,Roduulf Schroff,Antoynel Geingob,Humpherus Eiguren,Bessi Weiz,Bricot Weibrecht,Sotil Mavros
+Archetel Van Heemskerck,Hisarna Manta,Dickory Dessaigne,Rodney Crespy,Philopoemon Teixeira
+Harimann Schoettlekotte,Maginulf Nizan,Idaeus Weigle,Timagoras Corbajram,Eumenes Primeau,Brice Zabel,Hilduin Stober,Humfery Corradini,Fridebertus Aguilon,Sotil Mavros,Chlotar Dufrene,Senuthius Sjoerte,Harmocydes d'Auberville,Lewenhart Malaurie,Helmhart Bunge,Archetel Van Heemskerck,Lefwyne Muraro,Balius Baumont,Bessi Weiz,Patsy Azevedo
+Ferand Delicati,Gavin Peizerat,Judo Carosi,Brice Zabel,Humfery Corradini,Napolion Sico,Heiron Koehler,Euphratas Rouviere
+Hadubrand Ostendarp,Nyctinus Rubbi,Menesthes Baggio,Henfrey de Cahaihnes,Rodney Crespy,Jollanus Rombley,Arioald Muti,Phormion Duvillard,Villiame Abeille
+Antilochus Mazan,Tibbald Koemans,Harmocydes d'Auberville,Alaric Group,Gavin Peizerat,Timagoras Corbajram,Arioald Muti,Megistus Barbu,Aribert Godefroy,Henfrey de Cahaihnes,Egidius Clouzot,Jollanus Rombley,Eudoxus Hechevaria,Ruthardus de Tocni,Heiron Koehler
+Percyvell Aburto,Antilochus Mazan,Hisarna Manta,Beringer Tolr,Lewenhart Malaurie,Iturri Meystrell,Errolan Vesci,Raimbaut Tarducci,Leoric Pipinelis,Tendao Demilly,Renouart Halmer,Megistus Barbu
+Hisarna Manta,Gefroy Rousset,Raimbaut Tarducci,Sylvester Goossens,Wymarc Travada,Paskal Lohse,Bricot Weibrecht,Timoxenos Badeau
+Alo d'Ansleville,Halius Levski,Raimbaut Tarducci,Antoynel Geingob,Jollanus Rombley
+Henfrey de Cahaihnes,Euphratas Savoldelli,Hisarna Manta,Willie Faerber,Halius Levski,Folmar Paravicini,Ferand Delicati,Raimbaut Tarducci,Olympiodorus Klinsmann,Dickory Dessaigne,Idaeus Weigle,Haggith Poilblan,Methodius Zoitakis,Napolion Sico,Helmhart Bunge,Alaric Group,Villiame Abeille
+Harimann Schoettlekotte,Iturri Meystrell,Agrias Brendel,Maginulf Nizan,Hadubrand Ostendarp,Napolion Sico,Egidius Clouzot
+Bias Weinsheimer,Jurdan Gatlinaro,Bessi Weiz,Chlotar Dufrene
+Archetel Van Heemskerck,Maginulf Nizan,Roumain Pfaff,Xanthippus Rothfels,Egidius Clouzot
+Haggith Poilblan,Eudes Bentele,Halius Levski,Harimann Schoettlekotte,Raimbaut Tarducci,Dickory Dessaigne,Anschetillus Ettingshausen,Emercho Bachelin,Arnoul Delalande,Bernard Veteripont
+Halius Levski,Hadubrand Ostendarp,Roumain Pfaff,Cuthbrid Hasangjekaj,Humfery Corradini,Chlotar Dufrene,Megistus Barbu,Antoynel Geingob,Haggith Poilblan,Aribert Godefroy,Ferand Delicati,Asteri Mirbt,Archetel Van Heemskerck,Willie Faerber,Euphratas Rouviere,Euripides Docquier,Anschetillus Ettingshausen,Bessi Weiz,Patsy Azevedo
+Antilochus Mazan,Archagoras Iurrieta,Harmocydes d'Auberville,Olympiodorus Klinsmann,Thorold Mavroudis,Dickory Dessaigne,Euphratas Rouviere,Wymarc Travada,Antoynel Geingob,Brice Zabel,Jurdan Gatlinaro,Cuthbrid Hasangjekaj,Bricot Weibrecht,Fridebertus Aguilon,Jollanus Rombley,Ruthardus de Tocni,Patsy Azevedo
+Archagoras Iurrieta,Raimbaut Tarducci,Bernard Veteripont,Jurdan Gatlinaro,Lion Tourret,Patsy Azevedo
+Lefwyne Muraro,Franz Alexopoulos,Brice Zabel,Henfrey de Cahaihnes,Helmhart Bunge,Ruthardus de Tocni
+Hemonnet Martineaud,Roumain Pfaff,Timagoras Corbajram,Himel Yordanyotov,Humpherus Eiguren,Bernard Veteripont
+Iturri Meystrell,Nyctinus Rubbi
+Hemonnet Martineaud,Alo d'Ansleville,Senuthius Sjoerte,Olympiodorus Klinsmann,Euripides Docquier,Timagoras Corbajram,Himel Yordanyotov,Emercho Bachelin,Brice Zabel,Paskal Lohse,Humfery Corradini,Arnoul Delalande,Methodius Zoitakis,Timoxenos Badeau,Helmhart Bunge,Philopoemon Teixeira,Phormion Duvillard,Heiron Koehler
+Judo Carosi,Bernard Veteripont,Nyctinus Rubbi,Methodius Zoitakis
+Olympiodorus Klinsmann,Paskal Lohse,Timoxenos Badeau,Patsy Azevedo
+Alo d'Ansleville,Jaunzuria Koehler,Xanthippus Rothfels,Owini Verflieren,Antoynel Geingob,Haggith Poilblan,Henfrey de Cahaihnes,Helmhart Bunge
+Tibbald Koemans,Archagoras Iurrieta,Harimann Schoettlekotte,Maginulf Nizan,Jaunzuria Koehler,Raimbaut Tarducci,Jurdan Gatlinaro,Methodius Zoitakis,Sotil Mavros,Errolan Vesci,Leoric Pipinelis,Owini Verflieren,Martlet Loschi,Wymarc Travada,Ferand Delicati,Folmar Paravicini,Gavin Peizerat,Euripides Docquier,Arnoul Delalande
+Archetel Van Heemskerck,Hemonnet Martineaud,Tibbald Koemans,Senuthius Sjoerte,Gottschalk Devael,Agrias Brendel,Iturri Meystrell,Swittert Dolagaray,Humpherus Eiguren,Hilduin Stober,Aribert Godefroy,Arioald Muti,Sotil Mavros
+Senuthius Sjoerte,Euripides Docquier,Swittert Dolagaray,Thorold Mavroudis,Anschetillus Ettingshausen,Sylvester Goossens,Arioald Muti,Jurdan Gatlinaro,Brice Zabel,Emercho Bachelin,Ferand Delicati,Eudoxus Hechevaria,Ruthardus de Tocni
+Euphratas Savoldelli,Alo d'Ansleville,Roumain Pfaff,Leoric Pipinelis,Wymarc Travada,Nyctinus Rubbi,Methodius Zoitakis
+Philkin Bloem,Bias Weinsheimer,Tibbald Koemans,Swittert Dolagaray,Timagoras Corbajram,Emercho Bachelin,Paskal Lohse,Humpherus Eiguren,Euphratas Rouviere
+Swittert Dolagaray,Sotil Mavros
+Philkin Bloem,Alo d'Ansleville,Errolan Vesci,Folmar Paravicini,Iturri Meystrell,Franz Alexopoulos,Olympiodorus Klinsmann,Thorold Mavroudis,Renouart Halmer,Menesthes Baggio,Lion Tourret,Arioald Muti,Timoxenos Badeau,Euphratas Rouviere
+Tibbald Koemans,Senuthius Sjoerte,Maurianus Zaldibar,Anschetillus Ettingshausen,Xanthippus Rothfels,Napolion Sico
+Alo d'Ansleville,Cuthbrid Hasangjekaj,Ferand Delicati,Ruthardus de Tocni,Timoxenos Badeau
+Antilochus Mazan,Euripides Docquier,Martlet Loschi,Balius Baumont,Lion Tourret,Sotil Mavros
+Halius Levski,Maginulf Nizan,Timagoras Corbajram,Cuthbrid Hasangjekaj,Balius Baumont,Fridebertus Aguilon
+Euphratas Savoldelli,Philkin Bloem,Harmocydes d'Auberville,Tendao Demilly,Sylvester Goossens,Recceswinth Woeder,Ferand Delicati,Patsy Azevedo,Eudoxus Hechevaria,Asteri Mirbt
+Merbal Desmet,Alo d'Ansleville
